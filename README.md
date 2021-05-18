@@ -1,10 +1,10 @@
-## :sunny:The first step of Learning Data
-** Index **
+## The first step of Learning Data 🤗
+## Index 
     1. Learning basic program languages :baby_chick:
         ***Python*** :hatching_chick:
         ***SQL***
-    3. Data modeling 
-    4. Could
+    2. Data modeling 
+    3. Could
    
     
 
