@@ -1,14 +1,14 @@
-## The first step of Learning Data 🤗
-## Index 
-1. Learning basic program languages :baby_chick:
->>***Python*** 
->>>***SQL***
-2. Data modeling 
-3. Could
-   
-    
+#Learning Data
+
+- 목차
+
+  1. Learning basic program languages
+  2. Data modeling
+  3. Could
+
+  ```Python
+  print("a")
 
 
- --------------------
- ### Better Late then Never
 
+  ```
